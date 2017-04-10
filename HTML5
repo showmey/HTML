@@ -1,0 +1,29 @@
+HTML5
+
+字符集<!doctype html>
+
+<Html lang=“Zh-CN”>
+
+<mata charset=“utf-8”>
+
+可以省略的标签：
+
+1.不允许写结束符的标签：area basebr col command embed hr img input keygen link mata param source track wbr 。
+
+<br/>
+
+2.可以省略结束符的标签：li dt dd p rt optgroup option colgroup thread tbody tr td th 。
+
+<p>后面的结束符可以省略掉
+
+3.可以完全省略的标签：html head body colgroup tbody 。
+
+可以不写这些标签依然是html文档。
+
+大小写尽量用小写，
+
+属性值使用双引号。
+
+尽量不去省略标签。
+
+统一规范。
